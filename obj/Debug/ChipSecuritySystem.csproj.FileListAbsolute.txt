@@ -1,0 +1,15 @@
+d:\development\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.exe.config
+d:\development\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.exe
+d:\development\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.pdb
+d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csprojAssemblyReference.cache
+d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csproj.CoreCompileInputs.cache
+d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.exe
+d:\development\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.pdb
+C:\Project\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csproj.AssemblyReference.cache
+C:\Project\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csproj.SuggestedBindingRedirects.cache
+C:\Project\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csproj.CoreCompileInputs.cache
+C:\Project\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.exe
+C:\Project\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.pdb
+C:\Project\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.exe.config
+C:\Project\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.exe
+C:\Project\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.pdb
